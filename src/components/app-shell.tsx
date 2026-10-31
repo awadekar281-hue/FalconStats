@@ -75,12 +75,12 @@ export function AppShell({ children }: { children: ReactNode }) {
         <button type="button" className="menu-toggle" aria-label={mobileOpen ? 'Close navigation' : 'Open navigation'} onClick={() => setMobileOpen((value) => !value)}>{mobileOpen ? <X/> : <Menu/>}</button>
         <div className="breadcrumb"><span>FalconStats</span><span>/</span><b>{routeName(pathname)}</b></div>
         <div className="top-actions">
-          <form className="global-search" role="search" onSubmit={submitSearch}><Search size={15} aria-hidden="true"/><input id="global-search" type="search" aria-label="Search markets" placeholder="Search assets..." value={search} onChange={(event) => setSearch(event.target.value)}/><kbd>Ctrl K</kbd></form>
+          <form className="global-search" role="search" onSubmit={submitSearch}><Search size={15} aria-hidden="true"/><input id="global-search" type="search" aria-label="Search markets" placeholder="Search assets..." value={search} onChange={(event) => setSearch(event.target.value)}/><kbd>⌘ K</kbd></form>
           <Link className="icon-action" href="/alerts" aria-label="Open alerts"><Bell/></Link>
           <Link className="icon-action" href="/login" aria-label="Sign in"><Compass/></Link>
         </div>
       </header>
-      <div className="content">{children}<footer className="content-footer"><span>FalconStats | global market data by <a href="https://www.coingecko.com" target="_blank" rel="noreferrer">CoinGecko</a> | exchange data by Binance/Bybit | DeFi data by DeFiLlama | information only</span><Link href="/admin">API status <ChevronRight size={12} aria-hidden="true"/></Link></footer></div>
+      <div className="content">{children}<footer className="content-footer"><span>FalconStats · global market data by <a href="https://www.coingecko.com" target="_blank" rel="noreferrer">CoinGecko</a> · exchange data by Binance/Bybit · DeFi data by DeFiLlama · information only</span><Link href="/admin">API status <ChevronRight size={12} aria-hidden="true"/></Link></footer></div>
     </main>
   </div>;
 }

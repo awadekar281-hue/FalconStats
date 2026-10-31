@@ -11,25 +11,25 @@ import { useBrowserList } from './use-local-data';
 
 const number = (value: string | number | null | undefined) => value === null || value === undefined || value === '' ? null : Number(value);
 export function formatMoney(value: string | number | null | undefined, currency = 'USD', digits = 2) {
-  const amount = number(value); if (amount === null || !Number.isFinite(amount)) return '\u2014';
+  const amount = number(value); if (amount === null || !Number.isFinite(amount)) return '—';
   return new Intl.NumberFormat('en-US', { style: 'currency', currency, notation: Math.abs(amount) >= 1_000_000 ? 'compact' : 'standard', maximumFractionDigits: digits, minimumFractionDigits: amount < 1 ? Math.min(digits, 4) : 0 }).format(amount);
 }
 export function formatCompact(value: string | number | null | undefined) {
-  const amount = number(value); return amount === null || !Number.isFinite(amount) ? '\u2014' : Intl.NumberFormat('en-US', { notation: 'compact', maximumFractionDigits: 2 }).format(amount);
+  const amount = number(value); return amount === null || !Number.isFinite(amount) ? '—' : Intl.NumberFormat('en-US', { notation: 'compact', maximumFractionDigits: 2 }).format(amount);
 }
 export function formatPercent(value: string | number | null | undefined) {
-  const amount = number(value); return amount === null || !Number.isFinite(amount) ? '\u2014' : `${amount > 0 ? '+' : ''}${amount.toFixed(2)}%`;
+  const amount = number(value); return amount === null || !Number.isFinite(amount) ? '—' : `${amount > 0 ? '+' : ''}${amount.toFixed(2)}%`;
 }
 export function formatDate(value: string | null | undefined) {
   if (!value || !Number.isFinite(Date.parse(value))) return 'Not available';
   return new Intl.DateTimeFormat(undefined, { dateStyle: 'medium', timeStyle: 'short' }).format(new Date(value));
 }
 export function DataState({ meta, error, loading, onRefresh }: { meta?: ApiMeta | null; error?: string | null; loading?: boolean; onRefresh?: () => void }) {
-  if (loading && !meta) return <div className="api-state"><LoaderCircle size={15} className="animate-spin"/><span><strong>Loading stored FalconStats data...</strong></span></div>;
+  if (loading && !meta) return <div className="api-state"><LoaderCircle size={15} className="animate-spin"/><span><strong>Loading stored FalconStats data…</strong></span></div>;
   if (error) return <div className="api-state error"><TriangleAlert/><span><strong>Market data unavailable.</strong> {error} {onRefresh ? <button className="inline-link" onClick={onRefresh} type="button">Retry</button> : null}</span></div>;
   if (meta?.freshness === 'unavailable' || !meta?.asOf) return <div className="api-state"><Info/><span><strong>No stored market snapshot yet.</strong> This page only displays data returned by FalconStats; no sample market values are shown.</span>{onRefresh ? <button type="button" className="inline-link" onClick={onRefresh}>Refresh</button> : null}</div>;
   if (meta.freshness === 'stale') return <div className="api-state stale"><Clock3/><span><strong>Stored data may be stale.</strong> Snapshot from {formatDate(meta.asOf)}. {meta.source ?? 'Source unavailable'}.</span>{onRefresh ? <button type="button" className="inline-link" onClick={onRefresh}>Refresh</button> : null}</div>;
-  return <div className="data-source"><span className="freshness-dot"/><span>{meta?.source ?? 'FalconStats API'}</span><span>|</span><span>Updated {formatDate(meta?.asOf)}</span>{onRefresh ? <button type="button" className="refresh-link" onClick={onRefresh} aria-label="Refresh data"><RefreshCw size={13}/></button> : null}</div>;
+  return <div className="data-source"><span className="freshness-dot"/><span>{meta?.source ?? 'FalconStats API'}</span><span>·</span><span>Updated {formatDate(meta?.asOf)}</span>{onRefresh ? <button type="button" className="refresh-link" onClick={onRefresh} aria-label="Refresh data"><RefreshCw size={13}/></button> : null}</div>;
 }
 
 export function PageHeading({ eyebrow, title, description, actions }: { eyebrow: string; title: string; description: string; actions?: React.ReactNode }) {
@@ -38,10 +38,10 @@ export function PageHeading({ eyebrow, title, description, actions }: { eyebrow:
 
 export function MetricsCards({ data: metrics, meta, error, status, refresh }: Resource<GlobalMetrics | null>) {
   const entries = [
-    { label: 'Total market cap', value: metrics ? formatMoney(metrics.total_market_cap, metrics.quote_currency) : '\u2014', note: 'Global snapshot', icon: Database },
-    { label: '24h trading volume', value: metrics ? formatMoney(metrics.total_volume_24h, metrics.quote_currency) : '\u2014', note: 'Rolling 24 hours', icon: ArrowDownUp },
-    { label: 'Bitcoin dominance', value: metrics?.btc_dominance == null ? '\u2014' : `${Number(metrics.btc_dominance).toFixed(2)}%`, note: 'Share of total market cap', icon: Database },
-    { label: 'Ethereum dominance', value: metrics?.eth_dominance == null ? '\u2014' : `${Number(metrics.eth_dominance).toFixed(2)}%`, note: 'Share of total market cap', icon: Database },
+    { label: 'Total market cap', value: metrics ? formatMoney(metrics.total_market_cap, metrics.quote_currency) : '—', note: 'Global snapshot', icon: Database },
+    { label: '24h trading volume', value: metrics ? formatMoney(metrics.total_volume_24h, metrics.quote_currency) : '—', note: 'Rolling 24 hours', icon: ArrowDownUp },
+    { label: 'Bitcoin dominance', value: metrics?.btc_dominance == null ? '—' : `${Number(metrics.btc_dominance).toFixed(2)}%`, note: 'Share of total market cap', icon: Database },
+    { label: 'Ethereum dominance', value: metrics?.eth_dominance == null ? '—' : `${Number(metrics.eth_dominance).toFixed(2)}%`, note: 'Share of total market cap', icon: Database },
   ];
   return <>
     <DataState meta={meta} error={error} loading={status === 'loading'} onRefresh={refresh}/>
@@ -66,7 +66,7 @@ export function MarketCharts({ metrics, assets }: { metrics: GlobalMetrics | nul
     </section>
     <section className="card snapshot-card"><div className="card-head"><div><h2 className="card-title">Snapshot details</h2><p className="card-subtitle">Coverage from the latest stored global response</p></div><Database size={16} color="#9aabba"/></div><div className="snapshot-list">{[
       ['Active cryptocurrencies', metrics?.active_cryptocurrencies], ['Total cryptocurrencies', metrics?.total_cryptocurrencies], ['Active exchanges', metrics?.active_exchanges], ['Active market pairs', metrics?.active_market_pairs],
-    ].map(([label, value]) => <div className="snapshot-row" key={String(label)}><span>{label}</span><b>{value == null ? '\u2014' : new Intl.NumberFormat().format(Number(value))}</b></div>)}<p className="chart-note">A historical series is not available from the current API. Charts use only values present in the current API response.</p></div></section>
+    ].map(([label, value]) => <div className="snapshot-row" key={String(label)}><span>{label}</span><b>{value == null ? '—' : new Intl.NumberFormat().format(Number(value))}</b></div>)}<p className="chart-note">A historical series is not available from the current API. Charts use only values present in the current API response.</p></div></section>
   </div>;
 }
 
@@ -96,11 +96,11 @@ export function AssetTable({ result, loading, error, meta, refresh, offset, onPa
     <div className="table-scroll"><table><thead><tr><th aria-label="Watchlist"/><th><button className="th-button" onClick={() => sortBy('rank')}>Rank {sortIcon('rank')}</button></th><th className="asset-heading">Asset</th><th><button className="th-button" onClick={() => sortBy('price')}>Price {sortIcon('price')}</button></th><th><button className="th-button" onClick={() => sortBy('percent_change_24h')}>24h {sortIcon('percent_change_24h')}</button></th><th className="hide-small"><button className="th-button" onClick={() => sortBy('market_cap')}>Market cap {sortIcon('market_cap')}</button></th><th className="hide-medium">Volume 24h</th><th className="hide-medium">Updated</th></tr></thead><tbody>
       {loading && !result ? Array.from({ length: 6 }, (_, i) => <tr key={i}><td/><td colSpan={7}><div className="skeleton"/></td></tr>) : rows.length ? rows.map((asset) => <tr key={asset.id}>
         <td><button type="button" aria-label={saved.includes(asset.id) ? `Remove ${asset.symbol} from watchlist` : `Add ${asset.symbol} to watchlist`} className={`star-button${saved.includes(asset.id) ? ' saved' : ''}`} onClick={() => toggle(asset.id)}><Star size={15} fill={saved.includes(asset.id) ? 'currentColor' : 'none'}/></button></td>
-        <td>{asset.rank ?? '\u2014'}</td><td className="asset-heading"><Link href={`/asset/${asset.id}`} className="asset-cell"><span className="asset-icon">{asset.symbol.slice(0, 3)}</span><span className="asset-name"><strong>{asset.name}</strong><span>{asset.symbol}</span></span></Link></td>
-        <td>{formatMoney(asset.price, asset.quote_currency ?? 'USD', 6)}</td><td className={Number(asset.percent_change_24h) >= 0 ? 'positive' : 'negative'}>{formatPercent(asset.percent_change_24h)}</td><td className="hide-small">{formatMoney(asset.market_cap, asset.quote_currency ?? 'USD', 0)}</td><td className="hide-medium">{formatMoney(asset.volume_24h, asset.quote_currency ?? 'USD', 0)}</td><td className="hide-medium">{asset.source_as_of ? formatDate(asset.source_as_of) : '\u2014'}</td>
+        <td>{asset.rank ?? '—'}</td><td className="asset-heading"><Link href={`/asset/${asset.id}`} className="asset-cell"><span className="asset-icon">{asset.symbol.slice(0, 3)}</span><span className="asset-name"><strong>{asset.name}</strong><span>{asset.symbol}</span></span></Link></td>
+        <td>{formatMoney(asset.price, asset.quote_currency ?? 'USD', 6)}</td><td className={Number(asset.percent_change_24h) >= 0 ? 'positive' : 'negative'}>{formatPercent(asset.percent_change_24h)}</td><td className="hide-small">{formatMoney(asset.market_cap, asset.quote_currency ?? 'USD', 0)}</td><td className="hide-medium">{formatMoney(asset.volume_24h, asset.quote_currency ?? 'USD', 0)}</td><td className="hide-medium">{asset.source_as_of ? formatDate(asset.source_as_of) : '—'}</td>
       </tr>) : <tr><td colSpan={8} className="empty-cell">{error ? 'Stored assets could not be loaded.' : emptyMessage}</td></tr>}
     </tbody></table></div>
-    <div className="table-footer"><span>{result ? `Showing ${total ? offset + 1 : 0}-${Math.min(offset + pageSize, total)} of ${total.toLocaleString()} stored assets` : error ? 'API data unavailable' : 'Waiting for API data'}</span><div className="pagination"><button type="button" className="page-button" disabled={currentPage <= 1} onClick={() => onPage(Math.max(0, offset - pageSize))}>Previous</button><span>{currentPage} / {pages}</span><button type="button" className="page-button" disabled={currentPage >= pages} onClick={() => onPage(offset + pageSize)}>Next</button></div></div>
+    <div className="table-footer"><span>{result ? `Showing ${total ? offset + 1 : 0}–${Math.min(offset + pageSize, total)} of ${total.toLocaleString()} stored assets` : error ? 'API data unavailable' : 'Waiting for API data'}</span><div className="pagination"><button type="button" className="page-button" disabled={currentPage <= 1} onClick={() => onPage(Math.max(0, offset - pageSize))}>Previous</button><span>{currentPage} / {pages}</span><button type="button" className="page-button" disabled={currentPage >= pages} onClick={() => onPage(offset + pageSize)}>Next</button></div></div>
   </section>;
 }
 
@@ -113,7 +113,7 @@ export function SearchToolbar({ value, onChange, placeholder = 'Search name or s
 }
 
 export function WorkspaceAssetSelect({ onSelect, assets, loading }: { onSelect: (id: string) => void; assets: Asset[]; loading: boolean }) {
-  return <select className="select" defaultValue="" onChange={(event) => { if (event.target.value) onSelect(event.target.value); event.currentTarget.value = ''; }} disabled={loading}><option value="">{loading ? 'Loading stored assets...' : 'Add an asset'}</option>{assets.map((asset) => <option value={asset.id} key={asset.id}>{asset.name} ({asset.symbol})</option>)}</select>;
+  return <select className="select" defaultValue="" onChange={(event) => { if (event.target.value) onSelect(event.target.value); event.currentTarget.value = ''; }} disabled={loading}><option value="">{loading ? 'Loading stored assets…' : 'Add an asset'}</option>{assets.map((asset) => <option value={asset.id} key={asset.id}>{asset.name} ({asset.symbol})</option>)}</select>;
 }
 
 export async function loadAsset(id: string) { return apiFetch<Asset>(apiPaths.asset(id)); }
