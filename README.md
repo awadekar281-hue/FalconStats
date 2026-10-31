@@ -1,27 +1,16 @@
 # FalconStats
 
-Responsive V1 market intelligence dashboard based on the FalconStats phased technical plan.
-
-The backend API and ingestion engine are in [`backend/`](backend/README.md). The dashboard still uses clearly labeled illustrative content; the backend does not silently replace it or serve the test fixtures.
-
-## Current state
-
-This is a static, client-side V1 interface. All displayed market values, charts, sector metrics, and news headlines are illustrative sample content. There is no live market data provider or backend connected. The site labels this clearly in the interface.
-
-Implemented interactions include asset search, gainers/losers filtering, local browser watchlist persistence, responsive navigation, chart range selection, and sample asset feedback.
+FalconStats market-intelligence website and API. The Next.js App Router frontend is in `src/`; it reads market data through a same-origin proxy to the NestJS API in `backend/`. It shows stored provider data with its freshness metadata and does not use the old static page's illustrative sample values.
 
 ## Run locally
 
-Open `index.html` in a browser, or serve the folder with any static web server. No build step or package installation is required.
+1. Start PostgreSQL and Redis using `docker compose -f backend/docker-compose.yml up -d`.
+2. Configure the backend: copy `backend/.env.example` to `backend/.env`, set a random 32-character-or-longer `ADMIN_API_KEY`, then run `npm install` in `backend`, `npm run migrate`, and `npm run start:dev` there.
+3. Configure the web app: copy `.env.local.example` to `.env.local`. For protected admin operations, set `FALCONSTATS_ADMIN_API_KEY` to the same backend key and set a separate random 32-character-or-longer `FALCONSTATS_ADMIN_UI_TOKEN`.
+4. Run `npm install` and `npm run dev` at the project root, then visit `http://localhost:3000`.
 
-## Deploy
+The web proxy defaults to `http://127.0.0.1:3001`; deployments should set `FALCONSTATS_API_ORIGIN` to a private/reachable backend origin. Keep admin secrets server-side and do not add `NEXT_PUBLIC_` prefixes.
 
-The project can be deployed as a static site. A live provider requires a backend ingestion/API layer and licensed provider credentials; do not put provider secrets in browser code.
+Market history, category directories, exchange details, derivatives, news, AI insights, signals, and account login require backend capabilities not yet implemented. Their routes explain the gap instead of showing fake live data. Watchlists, portfolio quantities, alert rules, and display preferences are local to this browser; they use current assets and prices from the API where available.
 
-## Planned next
-
-1. Select a licensed data provider and confirm display, caching, attribution, and history rights.
-2. Add a normalized backend API and durable asset registry.
-3. Replace demo content with timestamped provider data and explicit stale/missing states.
-4. Add authenticated accounts and synced watchlists after API and identity setup.
-5. Expand into V2 derivatives, alerts, portfolio, and grounded AI features as defined in the technical plan.
+See [`backend/README.md`](backend/README.md) for data services and [`backend/docs/api.md`](backend/docs/api.md) for endpoint contracts.
