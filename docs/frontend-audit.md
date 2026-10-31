@@ -28,17 +28,13 @@ The existing backend dependencies include NestJS, PostgreSQL `pg`, Redis `ioredi
 
 ## UTF-8 and Vercel build diagnosis
 
-The supplied Vercel log is for commit `1128df6`. Its first meaningful compile failure is:
+The Vercel build for commit `82ee958` reports `stream did not contain valid UTF-8` at `src/components/section-route.tsx`. Byte-level comparison found that the committed GitHub blob is only 6,057 bytes and contains an invalid `0xAA` at byte offset 1. The local source and Git index version are 23,909 bytes, strict UTF-8, and have no BOM. This is remote committed-blob corruption, not a source file encoding problem in the local checkout. The blob must be restored byte-for-byte from the intact local version.
 
-> `stream did not contain valid UTF-8`
+The same byte-level scan of the GitHub tree found seven additional invalid blobs: `backend/package-lock.json`, `backend/src/modules/analytics/analytics.controller.ts`, `backend/src/modules/assets/assets.controller.ts`, `backend/src/modules/ingestion/market-ingestion.service.ts`, root `package-lock.json`, `src/app/globals.css`, and `styles.css`. Each has an invalid byte `0xAA` at offset 1. Fourteen remote blobs differed from the local index; the other six differences (`next-env.d.ts`, `tsconfig.json`, and four UI components) are valid UTF-8 and are not to be repaired as encoding issues. The local strict UTF-8 validator scans tracked source extensions and identifies all invalid bytes by offset; it is wired into `npm run build` as `prebuild`.
 
-The reported files were `src/components/data-ui.tsx`, `src/components/admin-page.tsx`, `src/components/app-shell.tsx`, and `src/components/asset-details-page.tsx`. Earlier Turbopack logs had reported the same class of source-read error. Switching the root build script to Webpack did not resolve it in the supplied log.
+The repository intentionally has two npm locks, root and `backend/`, for the two package roots. Both local lockfiles parse as JSON. No repository `.npmrc` exists, and `npm config list` shows no `cache-dir` setting, so the Vercel `cache-dir` warning is external environment configuration. The install-script notices are for `esbuild` and `unrs-resolver`; local install/build succeeds without approving them, so they remain unapproved and are not treated as the encoding failure.
 
-I ran the strict validator at [scripts/validate-utf8.ps1](../scripts/validate-utf8.ps1) against every tracked file. At this audit it reports no invalid UTF-8 and no BOMs. The previously affected source files also decode under a strict UTF-8 decoder locally. This establishes a mismatch between the checked-out source in this workspace and what the Vercel build process reports; it does **not** establish why Vercel sees invalid source bytes. The UI source was briefly changed to ASCII-only punctuation in a prior troubleshooting attempt, but that was not supported by the byte audit and did not establish a fix; the current local source has been restored to its original punctuation.
-
-The same Vercel log reports two `package-lock.json` config parse messages, but dependency installation proceeds and says `up to date`. The first actionable error in the supplied log is the invalid UTF-8 source-read failure, not the final build-exit message. The npm `cache-dir` warning and install-script notices are warnings in that log; they are not shown as the terminating error.
-
-The later deployments for commits `c7cdaa1` and `f512a82` also report `ERROR` in Vercel deployment metadata, with only the generic `npm run build exited with 1`. The connected build-event endpoint returned 404, so detailed logs for those deployments are not available in this session. The exact latest deployment cause is therefore **not established**. Please provide the detailed log for the latest failed deployment before attributing its failure to a new root cause.
+The Vercel log also prints package-lock config parse messages because the remote lockfile blob is corrupted; restoring the valid local lockfile addresses that separate warning. A successful local build does not prove a Vercel deployment succeeded. The new production deployment must reach READY before the incident is closed.
 
 ### Environment comparison
 

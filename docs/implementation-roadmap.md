@@ -4,11 +4,11 @@ This roadmap records the work and dependencies for review. It does not authorize
 
 ## Phase 0 — repository and deployment stability
 
-**Audit completed:** Next.js App Router project and existing NestJS backend inspected; npm/package-lock setup recorded; every tracked file passed strict UTF-8 validation and no BOM was found; `npm ci` succeeded from both package roots; frontend lint, type check, and production build passed locally.
+**Audit completed:** Next.js App Router project and existing NestJS backend inspected; npm/package-lock setup recorded; local tracked source is valid UTF-8; `npm ci` succeeded from both package roots; frontend lint, type check, and production build passed locally.
 
-**Deployment not resolved:** Vercel’s supplied `1128df6` build log reports an invalid UTF-8 source stream in four UI components despite the local strict-byte audit. The later deployment at `c7cdaa1` has ERROR metadata, but the connected Vercel build-log endpoint is unavailable here. Do not declare the deployment fixed until the detailed latest log is reviewed and a new production deployment reaches READY.
+**Deployment blocker identified:** GitHub commit `82ee958` contains eight truncated/corrupt blobs, including `src/components/section-route.tsx` and the root lockfile. The invalid byte is `0xAA` at byte offset 1 in each affected blob. A strict Node UTF-8 check is being added to `prebuild`, and only the eight byte-invalid files are being restored. See [frontend-audit.md](frontend-audit.md) for the full list and warning analysis.
 
-**Next action:** provide the detailed Vercel build log for the latest failed deployment so the first meaningful error can be compared to the local source tree. Keep TypeScript and build validation enabled. Do not change bundlers or rewrite source files again without evidence.
+**Deployment not yet resolved:** the repair is not complete until a new production deployment reaches READY. Do not claim deployment success before that Vercel result.
 
 ## Phase 1 — core design freeze
 

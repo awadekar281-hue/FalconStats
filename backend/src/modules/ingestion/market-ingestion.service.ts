@@ -1,1 +1,105 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíßÏ;N‹Z–‹­¦ëeŠw¬Õ¥µÁ½ÉĞì%¹©•Ñ…‰±”°1½•Èô™É½´€¹•ÍÑ©Ì½½µµ½¸œì)¥µÁ½ÉĞì½¹™¥M•ÉÙ¥”ô™É½´€¹•ÍÑ©Ì½½¹™¥œœì)¥µÁ½ÉĞìAM•ÉÙ¥”ô™É½´€œ¸¸½‘…Ñ…‰…Í”½Áœ¹Í•ÉÙ¥”œì)¥µÁ½ÉĞìAÉ½Ù¥‘•ÉI•¥ÍÑÉåM•ÉÙ¥”ô™É½´€œ¸¸½ÁÉ½Ù¥‘•ÉÌ½ÁÉ½Ù¥‘•ÈµÉ•¥ÍÑÉä¹Í•ÉÙ¥”œì)¥µÁ½ÉĞìÍÍ•Ñ5…ÁÁ¥¹M•ÉÙ¥”ô™É½´€œ¸¸½…ÍÍ•ÑÌ½…ÍÍ•Ğµµ…ÁÁ¥¹œ¹Í•ÉÙ¥”œì)¥µÁ½ÉĞì5…É­•ÑI•Á½Í¥Ñ½Éäô™É½´€œ¸¸½µ…É­•Ğ½µ…É­•Ğ¹É•Á½Í¥Ñ½Éäœì)¥µÁ½ÉĞì…¡•M•ÉÙ¥”ô™É½´€œ¸¸½…¡”½…¡”¹Í•ÉÙ¥”œì)¥µÁ½ÉĞì¹½Éµ…±¥é•½¥¹•­½±½‰…°°¹½Éµ…±¥é•½¥¹•­½5…É­•ÑÌ°É…Ñ¥½Q½A•É•¹Ğô™É½´€œ¸¸½ÁÉ½Ù¥‘•ÉÌ½ÁÉ½Ù¥‘•Èµ¹½Éµ…±¥é•ÉÌœì)¥µÁ½ÉĞÑåÁ”ì9½Éµ…±¥é•‘½¥¹•­½5…É­•Ğô™É½´€œ¸¸½ÁÉ½Ù¥‘•ÉÌ½ÁÉ½Ù¥‘•Èµ¹½Éµ…±¥é•ÉÌœì()ÑåÁ”I•½É‘Y…±Õ”€ôI•½ÉñÍÑÉ¥¹œ°Õ¹­¹½İ¸øì)½¹ÍĞ…Í=‰©•Ğ€ô€¡Ù…±Õ”èÕ¹­¹½İ¸¤èI•½É‘Y…±Õ”€ôøÙ…±Õ”€˜˜ÑåÁ•½˜Ù…±Õ”€ôôô€½‰©•Ğœ€üÙ…±Õ”…ÌI•½É‘Y…±Õ”€èíôì)½¹ÍĞ…ÍÉÉ…ä€ô€¡Ù…±Õ”èÕ¹­¹½İ¸¤èÕ¹­¹½İ¹mt€ôøÉÉ…ä¹¥ÍÉÉ…ä¡Ù…±Õ”¤€üÙ…±Õ”€èmtì)½¹ÍĞ‘•¥µ…°€ô€¡Ù…±Õ”èÕ¹­¹½İ¸¤èÍÑÉ¥¹œğ¹Õ±°€ôøÙ…±Õ”€ôôô¹Õ±°ñğÙ…±Õ”€ôôôÕ¹‘•™¥¹•ñğÙ…±Õ”€ôôô€œœ€ü¹Õ±°€èMÑÉ¥¹œ¡Ù…±Õ”¤ì)½¹ÍĞ¹Õ´€ô€¡Ù…±Õ”èÕ¹­¹½İ¸¤è¹Õµ‰•Èğ¹Õ±°€ôøì½¹ÍĞ¸€ô9Õµ‰•È¡Ù…±Õ”¤ìÉ•ÑÕÉ¸9Õµ‰•È¹¥Í¥¹¥Ñ”¡¸¤€ü¸€è¹Õ±°ìôì)½¹ÍĞ¥Í¼€ô€¡Ù…±Õ”èÕ¹­¹½İ¸°™…±±‰…¬€ô¹•Ü…Ñ” ¤¤èÍÑÉ¥¹œ€ôøì(€½¹ÍĞ¸€ô9Õµ‰•È¡Ù…±Õ”¤ì(€½¹ÍĞ€ôÙ…±Õ”¥¹ÍÑ…¹•½˜…Ñ”€üÙ…±Õ”€èÑåÁ•½˜Ù…±Õ”€ôôô€¹Õµ‰•Èœñğ€¡ÑåÁ•½˜Ù…±Õ”€ôôô€ÍÑÉ¥¹œœ€˜˜€½yq‘ìÄÀ°ÄÍô¼¹Ñ•ÍĞ¡Ù…±Õ”¤¤€ü¹•Ü…Ñ”¡¸€ğ€ÄÁ|ÀÀÁ|ÀÀÁ|ÀÀÀ€ü¸€¨€ÄÀÀÀ€è¸¤€è¹•Ü…Ñ”¡MÑÉ¥¹œ¡Ù…±Õ”€üü€œœ¤¤ì(€É•ÑÕÉ¸9Õµ‰•È¹¥Í9…8¡¹•ÑQ¥µ” ¤¤€ü™…±±‰…¬¹Ñ½%M=MÑÉ¥¹œ ¤€è¹Ñ½%M=MÑÉ¥¹œ ¤ì)ôì((¼¼áÁ±¥¥ĞÁÉ½Ù¥‘•È¥‘•¹Ñ¥Ñä…¹ÑÉ…‘¥¹œÁ…¥Èµ…ÁÁ¥¹Ì…Ù½¥Ñ¥­•Èµ½¹±ä…ÍÍ•Ğ©½¥¹Ì¸)½¹ÍĞA%ILèI•½ÉñÍÑÉ¥¹œ°ì¥èÍÑÉ¥¹œì‰…Í”èÍÑÉ¥¹œìÅÕ½Ñ”èÍÑÉ¥¹œõmtø€ôì(€	Qèmí¥è‰¥Ñ½¥¸œ±‰…Í”è	Qœ±ÅÕ½Ñ”èUMPõt°Q émí¥è•Ñ¡•É•Õ´œ±‰…Í”èQ œ±ÅÕ½Ñ”èUMPõt°M=0émí¥èÍ½±…¹„œ±‰…Í”èM=0œ±ÅÕ½Ñ”èUMPõt°(€	9émí¥è‰¥¹…¹•½¥¸œ±‰…Í”è	9œ±ÅÕ½Ñ”èUMPõt°aI@émí¥èÉ¥ÁÁ±”œ±‰…Í”èaI@œ±ÅÕ½Ñ”èUMPõt°émí¥è…É‘…¹¼œ±‰…Í”èœ±ÅÕ½Ñ”èUMPõt°(€=émí¥è‘½•½¥¸œ±‰…Í”è=œ±ÅÕ½Ñ”èUMPõt°QI`émí¥èÑÉ½¸œ±‰…Í”èQI`œ±ÅÕ½Ñ”èUMPõt°Q=8émí¥èÑ¡”µ½Á•¸µ¹•Ñİ½É¬œ±‰…Í”èQ=8œ±ÅÕ½Ñ”èUMPõt°(€Y`émí¥è…Ù…±…¹¡”´Èœ±‰…Í”èY`œ±ÅÕ½Ñ”èUMPõt°1%9,émí¥è¡…¥¹±¥¹¬œ±‰…Í”è1%9,œ±ÅÕ½Ñ”èUMPõt°=Pémí¥èÁ½±­…‘½Ğœ±‰…Í”è=Pœ±ÅÕ½Ñ”èUMPõt°)ôì)½¹ÍĞµ…ÁÁ•‘ÍÍ•ÑÌ€ô¹•Ü5…À¡=‰©•Ğ¹Ù…±Õ•Ì¡A%IL¤¹™±…Ğ ¤¹µ…À ¡Á…¥È¤€ôømÁ…¥È¹‰…Í”°Á…¥È¹¥‘t¤¤ì()%¹©•Ñ…‰±” ¤)•áÁ½ÉĞ±…ÍÌ5…É­•Ñ%¹•ÍÑ¥½¹M•ÉÙ¥”ì(€ÁÉ¥Ù…Ñ”É•…‘½¹±ä±½•È€ô¹•Ü1½•È¡5…É­•Ñ%¹•ÍÑ¥½¹M•ÉÙ¥”¹¹…µ”¤ì(€½¹ÍÑÉÕÑ½È¡ÁÉ¥Ù…Ñ”É•…‘½¹±ä½¹™¥œè½¹™¥M•ÉÙ¥”°ÁÉ¥Ù…Ñ”É•…‘½¹±äÁÉ½Ù¥‘•ÉÌèAÉ½Ù¥‘•ÉI•¥ÍÑÉåM•ÉÙ¥”°ÁÉ¥Ù…Ñ”É•…‘½¹±ä‘ˆèAM•ÉÙ¥”°ÁÉ¥Ù…Ñ”É•…‘½¹±ä…ÍÍ•Ñ5…ÁÁ¥¹œèÍÍ•Ñ5…ÁÁ¥¹M•ÉÙ¥”°ÁÉ¥Ù…Ñ”É•…‘½¹±äµ…É­•Ğè5…É­•ÑI•Á½Í¥Ñ½Éä°ÁÉ¥Ù…Ñ”É•…‘½¹±ä…¡”è…¡•M•ÉÙ¥”¤íô((€…Íå¹Œ¥¹•ÍĞ ¤èAÉ½µ¥Í”ñI•½ÉñÍÑÉ¥¹œ°Õ¹­¹½İ¸øøì(€€€½¹ÍĞ±¥µ¥Ğ€ôÑ¡¥Ì¹½¹™¥œ¹•Ğñ¹Õµ‰•Èø =%9-=}5I-Q}A}M%iœ¤€üü€ÈÔÀì(€€€½¹ÍĞ±…Ñ•ÍÑ±½‰…°õ…İ…¥ĞÑ¡¥Ì¹‘ˆ¹ÅÕ•ÉäñíÍ½ÕÉ•}…Í}½˜éÍÑÉ¥¹ñ¹Õ±±ôø¡M1Pµ…à¡Í½ÕÉ•}…Í}½˜¤èéÑ•áĞLÍ½ÕÉ•}…Í}½˜I?_<îÚ$z{-®éÜj×ó#F‚Æ6†ævUó#F‚Ç6÷W&6Uö5ööb’dÅTU2‚CÂv'–&—BrÂC"ÂC2ÂCBÂCRÂCbÂCrÂC‚ÂC’’ôâ4ôädÄ”5B†W†6†ævUö6öFRÇ7–Ö&öÂÆÖ&¶WE÷G—RÇ6÷W&6Uö5ööb’DòäõD„”ävÅ¶76WD–BÇ7–Ö&öÂÆ&6RÇV÷FRÆÖ&¶WEG—RÆFV6–ÖÂ‡BæÆ7E&–6R’ÆFV6–ÖÂ‡BçGW&æ÷fW##F‚’Ç&F–õFõW&6VçB‡Bç&–6S#F…6çB’Æ4öeÒ“°¢–b†Ö&¶WEG—SÓÓÒw7÷Br—·w&—GFVâ²³¶6öçF–çVS·Ğ¢6öç7B–ç7G'VÖVçCÖv—B6Æ–VçBçVW'“Ç¶–C§7G&–æwÓâ†”å4U%B”åDòFW&—fF—fW5ö–ç7G'VÖVçG2†W†6†ævUö6öFRÇ7–Ö&öÂÆ&6Uö76WBÇV÷FUö76WBÆ6öçG&7E÷G—RÆgVæF–æuö–çFW'fÅöÖ–çWFW2Ç7FGW2’dÅTU2‚v'–&—BrÂCÂC"ÂC2ÂvÆ–æV%÷W'WGVÂrÄåTÄÂÂuG&F–ærr’ôâ4ôädÄ”5B†W†6†ævUö6öFRÇ7–Ö&öÂÆ6öçG&7E÷G—R’DòUDDR4UBWFFVEöCÖæ÷r‚’$UEU$ä”är–FÅ·7–Ö&öÂÆ&6RÇV÷FUÒ“°¢6öç7B–ç7G'VÖVçD–CÖ–ç7G'VÖVçBç&÷w5³Òæ–C°¢6öç7B÷Vä–çFW&W7CÖFV6–ÖÂ‡Bæ÷Vä–çFW&W7B“¶–b†÷Vä–çFW&W7BÓÖçVÆÂ’v—B6Æ–VçBçVW'’†”å4U%B”åDò÷Våö–çFW&W7E÷6æ6†÷G2†–ç7G'VÖVçEö–BÆ÷Våö–çFW&W7BÇVæ—BÇ6÷W&6Uö5ööb’dÅTU2‚CÂC"ÂC2ÂCB’ôâ4ôädÄ”5B†–ç7G'VÖVçEö–BÇ6÷W&6Uö5ööb’DòäõD„”ävÅ¶–ç7G'VÖVçD–BÆ÷Vä–çFW&W7BÆ&6RÆ4öeÒ“°¢6öç7BgVæF–æu&FSÖFV6–ÖÂ‡BægVæF–æu&FR“¶–b†gVæF–æu&FRÓÖçVÆÂ’v—B6Æ–VçBçVW'’†”å4U%B”åDògVæF–æu÷&FU÷6æ6†÷G2†–ç7G'VÖVçEö–BÆgVæF–æu÷&FRÆgVæF–æuöBÆæW‡EögVæF–æuöBÇ6÷W&6Uö5ööb’dÅTU2‚CÂC"ÄåTÄÂÂC2ÂCB’ôâ4ôädÄ”5B†–ç7G'VÖVçEö–BÇ6÷W&6Uö5ööb’DòäõD„”ävÅ¶–ç7G'VÖVçD–BÆgVæF–æu&FRÇBææW‡DgVæF–æuF–ÖSö—6ò‡BææW‡DgVæF–æuF–ÖR“¦çVÆÂÆ4öeÒ“°¢w&—GFVâ²³°¢Ğ¢Ò“·&WGW&âw&—GFVã°¢Ğ ¢&—fFR7–æ27–æ4FVf”–dGVR‚“¢&öÖ—6SÇfö–Câ°¢6öç7B&–÷#Öv—BF†—2æF"çVW'“Ç¶Æ7E÷7V66W73§7G&–æwÆçVÆÇÓâ†4TÄT5BÖ‚‡&W7öç6U÷&V6V—fVEöB“£§FW‡B2Æ7E÷7V66W72e$ôÒ&÷f–FW%÷&WVW7EöWfVçG2t„U$R&÷f–FW%ö6öFSÒvFVf–ÆÆÖräB7V66VVFVF“°¢–b‡&–÷"ç&÷w5³ÓòæÆ7E÷7V66W72bdFFRææ÷r‚’ÖæWrFFR‡&–÷"ç&÷w5³ÒæÆ7E÷7V66W72’ævWEF–ÖR‚“Ãb£c£c£—&WGW&ã°¢6öç7B·&÷Fö6öÇ2Æ6†–ç5ÓÖv—B&öÖ—6RæÆÂ…·F†—2ç&÷f–FW'2æFVf–ÆÆÖç&÷Fö6öÇ2‚’ÇF†—2ç&÷f–FW'2æFVf–ÆÆÖæ6†–ç2‚•Ò“¶6öç7BCÖæWrFFR‚’çFô•4õ7G&–ær‚“°¢v—BF†—2æF"çG&ç67F–öâ†7–æ2†6Æ–VçB“Óç°¢f÷"†6öç7B&röb4'&’‡&÷Fö6öÇ2’ç6Æ–6RƒÃS’—¶6öç7BÖ4ö&¦V7B‡&r“¶–b‡G—Vöbç6ÇVrÓÒw7G&–ærwÇÇG—VöbææÖRÓÒw7G&–ærr–6öçF–çVS°¢v—B6Æ–VçBçVW'’†”å4U%B”åDòFVf•÷&÷Fö6öÇ2†–BÆæÖRÆ6FVv÷'’Æ6†–ç2ÇGfÂÇW&ÂÇ6÷W&6Uö5ööbÇWFFVEöB’dÅTU2‚CÂC"ÂC2ÂCBÂCRÂCbÂCrÆæ÷r‚’’ôâ4ôädÄ”5B†–B’DòUDDR4UBæÖSÔU„4ÅTDTBææÖRÆ6FVv÷'“ÔU„4ÅTDTBæ6FVv÷'’Æ6†–ç3ÔU„4ÅTDTBæ6†–ç2ÇGfÃÔU„4ÅTDTBçGfÂÇW&ÃÔU„4ÅTDTBçW&ÂÇ6÷W&6Uö5ööcÔU„4ÅTDTBç6÷W&6Uö5ööbÇWFFVEöCÖæ÷r‚–Å·ç6ÇVrÇææÖRÇG—Vöbæ6FVv÷'“ÓÓÒw7G&–ærs÷æ6FVv÷'“¦çVÆÂÄ'&’æ—4'&’‡æ6†–ç2“÷æ6†–ç3¥µÒÆFV6–ÖÂ‡çGfÂ’ÇG—VöbçW&ÃÓÓÒw7G&–ærs÷çW&Ã¦çVÆÂÆEÒ“°¢Ğ¢f÷"†6öç7B&röb4'&’†6†–ç2’—¶6öç7B3Ö4ö&¦V7B‡&r“¶–b‡G—Vöb2ææÖRÓÒw7G&–ærwÇÆFV6–ÖÂ†2çGfÂ“ÓÓÖçVÆÂ–6öçF–çVS¶v—B6Æ–VçBçVW'’†”å4U%B”åDòFVf•ö6†–å÷GfÂ†6†–âÇGfÂÇ6÷W&6Uö5ööbÇWFFVEöB’dÅTU2‚CÂC"ÂC2Ææ÷r‚’’ôâ4ôädÄ”5B†6†–â’DòUDDR4UBGfÃÔU„4ÅTDTBçGfÂÇ6÷W&6Uö5ööcÔU„4ÅTDTBç6÷W&6Uö5ööbÇWFFVEöCÖæ÷r‚–Å¶2ææÖRÆFV6–ÖÂ†2çGfÂ’ÆEÒ“·Ğ¢Ò“°¢Ğ§Ğ
+import { Injectable, Logger } from '@nestjs/common';
+import { ConfigService } from '@nestjs/config';
+import { PgService } from '../database/pg.service';
+import { ProviderRegistryService } from '../providers/provider-registry.service';
+import { AssetMappingService } from '../assets/asset-mapping.service';
+import { MarketRepository } from '../market/market.repository';
+import { CacheService } from '../cache/cache.service';
+import { normalizeCoinGeckoGlobal, normalizeCoinGeckoMarkets, ratioToPercent } from '../providers/provider-normalizers';
+import type { NormalizedCoinGeckoMarket } from '../providers/provider-normalizers';
+
+type RecordValue = Record<string, unknown>;
+const asObject = (value: unknown): RecordValue => value && typeof value === 'object' ? value as RecordValue : {};
+const asArray = (value: unknown): unknown[] => Array.isArray(value) ? value : [];
+const decimal = (value: unknown): string | null => value === null || value === undefined || value === '' ? null : String(value);
+const num = (value: unknown): number | null => { const n = Number(value); return Number.isFinite(n) ? n : null; };
+const iso = (value: unknown, fallback = new Date()): string => {
+  const n = Number(value);
+  const d = value instanceof Date ? value : typeof value === 'number' || (typeof value === 'string' && /^\d{10,13}$/.test(value)) ? new Date(n < 10_000_000_000 ? n * 1000 : n) : new Date(String(value ?? ''));
+  return Number.isNaN(d.getTime()) ? fallback.toISOString() : d.toISOString();
+};
+
+// Explicit provider identity and trading pair mappings avoid ticker-only asset joins.
+const PAIRS: Record<string, { id: string; base: string; quote: string }[]> = {
+  BTC: [{id:'bitcoin',base:'BTC',quote:'USDT'}], ETH:[{id:'ethereum',base:'ETH',quote:'USDT'}], SOL:[{id:'solana',base:'SOL',quote:'USDT'}],
+  BNB:[{id:'binancecoin',base:'BNB',quote:'USDT'}], XRP:[{id:'ripple',base:'XRP',quote:'USDT'}], ADA:[{id:'cardano',base:'ADA',quote:'USDT'}],
+  DOGE:[{id:'dogecoin',base:'DOGE',quote:'USDT'}], TRX:[{id:'tron',base:'TRX',quote:'USDT'}], TON:[{id:'the-open-network',base:'TON',quote:'USDT'}],
+  AVAX:[{id:'avalanche-2',base:'AVAX',quote:'USDT'}], LINK:[{id:'chainlink',base:'LINK',quote:'USDT'}], DOT:[{id:'polkadot',base:'DOT',quote:'USDT'}],
+};
+const mappedAssets = new Map(Object.values(PAIRS).flat().map((pair) => [pair.base, pair.id]));
+
+@Injectable()
+export class MarketIngestionService {
+  private readonly logger = new Logger(MarketIngestionService.name);
+  constructor(private readonly config: ConfigService, private readonly providers: ProviderRegistryService, private readonly db: PgService, private readonly assetMapping: AssetMappingService, private readonly market: MarketRepository, private readonly cache: CacheService) {}
+
+  async ingest(): Promise<Record<string, unknown>> {
+    const limit = this.config.get<number>('COINGECKO_MARKET_PAGE_SIZE') ?? 250;
+    const latestGlobal=await this.db.query<{source_as_of:string|null}>(`SELECT max(source_as_of)::text AS source_as_of FROM global_metric_snapshots WHERE source='coingecko' AND quote_currency='USD'`);
+    const refreshGlobal=!latestGlobal.rows[0]?.source_as_of||Date.now()-new Date(latestGlobal.rows[0].source_as_of).getTime()>=(this.config.get<number>('GLOBAL_METRICS_REFRESH_SECONDS')??1800)*1000;
+    const [globalResult,pageResult,binanceResult,bybitResult,bybitSpotResult] = await Promise.allSettled([refreshGlobal?this.providers.coingecko.globalMetrics!():Promise.resolve(null),this.providers.coingecko.listings!(limit,1),this.providers.binance.spotTickers(),this.providers.bybit.linearTickers(),this.providers.bybit.spotTickers()]);
+    const now = new Date().toISOString();
+    let listings:NormalizedCoinGeckoMarket[]=[];
+    if(globalResult.status==='fulfilled'&&globalResult.value!==null){
+      const globalData=asObject(asObject(globalResult.value).data);const normalizedMetrics=normalizeCoinGeckoGlobal(globalResult.value);
+      const metrics={...normalizedMetrics,totalCryptocurrencies:null,activeMarketPairs:null,sourceAsOf:normalizedMetrics.sourceAsOf??(globalData.updated_at?iso(globalData.updated_at):now)};
+      await this.market.saveGlobalMetrics(metrics,undefined,'coingecko');
+    }
+    if(pageResult.status==='fulfilled'){
+      const pages=[asArray(pageResult.value)];if(pages[0].length===limit){const second=await Promise.allSettled([this.providers.coingecko.listings!(limit,2)]);if(second[0].status==='fulfilled')pages.push(asArray(second[0].value));}
+      listings=normalizeCoinGeckoMarkets(pages.flat());
+      await this.db.transaction(async(client)=>{
+        for(const listing of listings){
+          const assetId=await this.assetMapping.upsertFromCoinGecko(client,{id:listing.id,name:listing.name,symbol:listing.symbol,image:listing.image??undefined,rank:listing.rank,sourceUpdatedAt:listing.sourceAsOf});
+          await client.query(`INSERT INTO market_snapshots(asset_id,quote_currency,price,volume_24h,market_cap,fully_diluted_market_cap,circulating_supply,total_supply,max_supply,percent_change_1h,percent_change_24h,percent_change_7d,source,source_as_of) VALUES($1,'USD',$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,'coingecko',$12) ON CONFLICT(asset_id,quote_currency,source_as_of) DO NOTHING`,[assetId,listing.price,listing.volume24h,listing.marketCap,listing.fdv,listing.circulatingSupply,listing.totalSupply,listing.maxSupply,listing.change1h,listing.change24h,listing.change7d,listing.sourceAsOf??now]);
+        }
+      });
+    }
+    let binanceWritten = 0; let bybitWritten = 0; let bybitSpotWritten=0;
+    if (binanceResult.status === 'fulfilled') binanceWritten = await this.storeBinance(asArray(binanceResult.value));
+    if (bybitResult.status === 'fulfilled') {const response=asObject(bybitResult.value);bybitWritten=await this.storeBybit(asArray(asObject(response.result).list),response.time,'linear');}
+    if (bybitSpotResult.status === 'fulfilled') {const response=asObject(bybitSpotResult.value);bybitSpotWritten=await this.storeBybit(asArray(asObject(response.result).list),response.time,'spot');}
+    try { await this.syncDefiIfDue(); } catch (error) { this.logger.warn(`DeFiLlama sync failed; existing snapshots retained: ${(error as Error).message}`); }
+    await this.cache.deleteByPrefix('api:market:');
+    this.logger.log(`Ingested ${listings.length} CoinGecko assets, ${binanceWritten} Binance quotes, ${bybitSpotWritten} Bybit spot quotes, ${bybitWritten} Bybit derivatives`);
+    return { assetsReceived:listings.length,source:globalResult.status==='rejected'?'coingecko_partial':'coingecko',globalMetricsAttempted:refreshGlobal,coingeckoError:globalResult.status==='rejected'?String(globalResult.reason):null,binanceQuotes:binanceWritten,bybitSpotQuotes:bybitSpotWritten,bybitLinearQuotes:bybitWritten,exchangeFailures:[binanceResult,bybitResult,bybitSpotResult].filter((v)=>v.status==='rejected').map((v)=>String(v.reason)),asOf:now };
+  }
+
+  private async storeBinance(tickers: unknown[]): Promise<number> {
+    let written=0;
+    await this.db.transaction(async (client)=>{
+      for(const raw of tickers){const t=asObject(raw);const symbol=String(t.symbol??'');const match=/^([A-Z0-9]+)(USDT|USDC|FDUSD|BTC|ETH)$/.exec(symbol);if(!match||!mappedAssets.has(match[1]))continue;
+        const base=match[1],quote=match[2],asOf=iso(t.closeTime??t.openTime);const idResult=await client.query<{id:string}>(`SELECT id FROM assets WHERE coingecko_id=$1`,[mappedAssets.get(base)]);const assetId=idResult.rows[0]?.id??null;
+        await client.query(`INSERT INTO exchange_quotes(asset_id,exchange_code,symbol,base_asset,quote_asset,market_type,price,volume_24h,change_24h,source_as_of) VALUES($1,'binance',$2,$3,$4,'spot',$5,$6,$7,$8) ON CONFLICT(exchange_code,symbol,market_type,source_as_of) DO NOTHING`,[assetId,symbol,base,quote,decimal(t.lastPrice),decimal(t.quoteVolume),decimal(t.priceChangePercent),asOf]);written++;
+      }
+    });return written;
+  }
+
+  private async storeBybit(tickers: unknown[], sourceTime?:unknown, marketType:'spot'|'linear'='linear'): Promise<number> {
+    let written=0;const received=Date.now();
+    await this.db.transaction(async(client)=>{
+      for(const raw of tickers){const t=asObject(raw);const symbol=String(t.symbol??'');const m=/^([A-Z0-9]+)(USDT|USDC)$/.exec(symbol);if(!m||!mappedAssets.has(m[1]))continue;
+        const base=m[1],quote=m[2],asOf=iso(sourceTime??t.time??received);const assetResult=await client.query<{id:string}>(`SELECT id FROM assets WHERE coingecko_id=$1`,[mappedAssets.get(base)]);const assetId=assetResult.rows[0]?.id??null;
+        await client.query(`INSERT INTO exchange_quotes(asset_id,exchange_code,symbol,base_asset,quote_asset,market_type,price,volume_24h,change_24h,source_as_of) VALUES($1,'bybit',$2,$3,$4,$5,$6,$7,$8,$9) ON CONFLICT(exchange_code,symbol,market_type,source_as_of) DO NOTHING`,[assetId,symbol,base,quote,marketType,decimal(t.lastPrice),decimal(t.turnover24h),ratioToPercent(t.price24hPcnt),asOf]);
+        if(marketType==='spot'){written++;continue;}
+        const instrument=await client.query<{id:string}>(`INSERT INTO derivatives_instruments(exchange_code,symbol,base_asset,quote_asset,contract_type,funding_interval_minutes,status) VALUES('bybit',$1,$2,$3,'linear_perpetual',NULL,'Trading') ON CONFLICT(exchange_code,symbol,contract_type) DO UPDATE SET updated_at=now() RETURNING id`,[symbol,base,quote]);
+        const instrumentId=instrument.rows[0].id;
+        const openInterest=decimal(t.openInterest);if(openInterest!==null) await client.query(`INSERT INTO open_interest_snapshots(instrument_id,open_interest,unit,source_as_of) VALUES($1,$2,$3,$4) ON CONFLICT(instrument_id,source_as_of) DO NOTHING`,[instrumentId,openInterest,base,asOf]);
+        const fundingRate=decimal(t.fundingRate);if(fundingRate!==null) await client.query(`INSERT INTO funding_rate_snapshots(instrument_id,funding_rate,funding_at,next_funding_at,source_as_of) VALUES($1,$2,NULL,$3,$4) ON CONFLICT(instrument_id,source_as_of) DO NOTHING`,[instrumentId,fundingRate,t.nextFundingTime?iso(t.nextFundingTime):null,asOf]);
+        written++;
+      }
+    });return written;
+  }
+
+  private async syncDefiIfDue(): Promise<void> {
+    const prior=await this.db.query<{last_success:string|null}>(`SELECT max(response_received_at)::text AS last_success FROM provider_request_events WHERE provider_code='defillama' AND succeeded`);
+    if(prior.rows[0]?.last_success&&Date.now()-new Date(prior.rows[0].last_success).getTime()<6*60*60*1000)return;
+    const [protocols,chains]=await Promise.all([this.providers.defillama.protocols(),this.providers.defillama.chains()]);const at=new Date().toISOString();
+    await this.db.transaction(async(client)=>{
+      for(const raw of asArray(protocols).slice(0,500)){const p=asObject(raw);if(typeof p.slug!=='string'||typeof p.name!=='string')continue;
+        await client.query(`INSERT INTO defi_protocols(id,name,category,chains,tvl,url,source_as_of,updated_at) VALUES($1,$2,$3,$4,$5,$6,$7,now()) ON CONFLICT(id) DO UPDATE SET name=EXCLUDED.name,category=EXCLUDED.category,chains=EXCLUDED.chains,tvl=EXCLUDED.tvl,url=EXCLUDED.url,source_as_of=EXCLUDED.source_as_of,updated_at=now()`,[p.slug,p.name,typeof p.category==='string'?p.category:null,Array.isArray(p.chains)?p.chains:[],decimal(p.tvl),typeof p.url==='string'?p.url:null,at]);
+      }
+      for(const raw of asArray(chains)){const c=asObject(raw);if(typeof c.name!=='string'||decimal(c.tvl)===null)continue;await client.query(`INSERT INTO defi_chain_tvl(chain,tvl,source_as_of,updated_at) VALUES($1,$2,$3,now()) ON CONFLICT(chain) DO UPDATE SET tvl=EXCLUDED.tvl,source_as_of=EXCLUDED.source_as_of,updated_at=now()`,[c.name,decimal(c.tvl),at]);}
+    });
+  }
+}
