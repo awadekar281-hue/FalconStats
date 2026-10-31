@@ -2,6 +2,8 @@
 
 Responsive V1 market intelligence dashboard based on the FalconStats phased technical plan.
 
+The backend API and ingestion engine are in [`backend/`](backend/README.md). The dashboard still uses clearly labeled illustrative content; the backend does not silently replace it or serve the test fixtures.
+
 ## Current state
 
 This is a static, client-side V1 interface. All displayed market values, charts, sector metrics, and news headlines are illustrative sample content. There is no live market data provider or backend connected. The site labels this clearly in the interface.
@@ -23,4 +25,3 @@ The project can be deployed as a static site. A live provider requires a backend
 3. Replace demo content with timestamped provider data and explicit stale/missing states.
 4. Add authenticated accounts and synced watchlists after API and identity setup.
 5. Expand into V2 derivatives, alerts, portfolio, and grounded AI features as defined in the technical plan.
-
