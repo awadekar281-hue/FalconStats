@@ -38,7 +38,7 @@ I ran the strict validator at [scripts/validate-utf8.ps1](../scripts/validate-ut
 
 The same Vercel log reports two `package-lock.json` config parse messages, but dependency installation proceeds and says `up to date`. The first actionable error in the supplied log is the invalid UTF-8 source-read failure, not the final build-exit message. The npm `cache-dir` warning and install-script notices are warnings in that log; they are not shown as the terminating error.
 
-The latest Vercel deployment after the supplied log is commit `c7cdaa1`. The connected deployment metadata reports `ERROR` and only the generic `npm run build exited with 1`; the connected build-event endpoint returned 404, so its detailed log is not available in this session. The exact current deployment cause is therefore **not established**. Please provide the build log for `c7cdaa1` before attributing that failure to a new root cause.
+The later deployments for commits `c7cdaa1` and `f512a82` also report `ERROR` in Vercel deployment metadata, with only the generic `npm run build exited with 1`. The connected build-event endpoint returned 404, so detailed logs for those deployments are not available in this session. The exact latest deployment cause is therefore **not established**. Please provide the detailed log for the latest failed deployment before attributing its failure to a new root cause.
 
 ### Environment comparison
 

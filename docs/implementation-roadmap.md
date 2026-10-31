@@ -8,7 +8,7 @@ This roadmap records the work and dependencies for review. It does not authorize
 
 **Deployment not resolved:** Vercel’s supplied `1128df6` build log reports an invalid UTF-8 source stream in four UI components despite the local strict-byte audit. The later deployment at `c7cdaa1` has ERROR metadata, but the connected Vercel build-log endpoint is unavailable here. Do not declare the deployment fixed until the detailed latest log is reviewed and a new production deployment reaches READY.
 
-**Next action:** provide the detailed Vercel build log for commit `c7cdaa1` (or the latest deployment commit) so the first meaningful error can be compared to the local source tree. Keep TypeScript and build validation enabled. Do not change bundlers or rewrite source files again without evidence.
+**Next action:** provide the detailed Vercel build log for the latest failed deployment so the first meaningful error can be compared to the local source tree. Keep TypeScript and build validation enabled. Do not change bundlers or rewrite source files again without evidence.
 
 ## Phase 1 — core design freeze
 
