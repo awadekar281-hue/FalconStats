@@ -32,7 +32,7 @@ export const apiPaths = {
   listings: (limit = 50, offset = 0, search = '') => `market/listings?limit=${limit}&offset=${offset}${search ? `&search=${encodeURIComponent(search)}` : ''}`,
   assets: (limit = 250, offset = 0, search = '') => `assets?limit=${limit}&offset=${offset}${search ? `&search=${encodeURIComponent(search)}` : ''}`,
   asset: (id: string) => `assets/${encodeURIComponent(id)}`,
-  providerStatus: 'providers/cmc/status',
+  providerStatus: 'providers/status',
   readiness: 'health/ready',
 } as const;
 

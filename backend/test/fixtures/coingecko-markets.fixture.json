@@ -1,0 +1,4 @@
+[
+  {"id":"bitcoin","symbol":"btc","name":"Bitcoin","image":"https://assets.example.test/bitcoin.png","current_price":42000.125,"market_cap":820000000000.5,"market_cap_rank":1,"fully_diluted_valuation":882000000000,"total_volume":18000000000.75,"circulating_supply":19500000,"total_supply":21000000,"max_supply":21000000,"price_change_percentage_1h_in_currency":0.25,"price_change_percentage_24h":-1.5,"price_change_percentage_7d":3.2,"last_updated":"2025-01-02T03:04:05.000Z"},
+  {"id":"ethereum","symbol":"eth","name":"Ethereum","current_price":null,"market_cap":null,"market_cap_rank":2,"fully_diluted_valuation":null,"total_volume":null,"circulating_supply":null,"total_supply":null,"max_supply":null,"price_change_percentage_1h_in_currency":null,"price_change_percentage_24h":null,"price_change_percentage_7d":null,"last_updated":null}
+]

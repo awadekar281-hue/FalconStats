@@ -2,11 +2,11 @@ import { NextRequest, NextResponse } from 'next/server';
 import { timingSafeEqual } from 'node:crypto';
 
 const PUBLIC_GETS = new Set([
-  'health/live', 'health/ready', 'assets', 'market/listings', 'market/global', 'providers/cmc/status',
+  'health/live', 'health/ready', 'assets', 'market/listings', 'market/global', 'providers/status', 'exchanges', 'derivatives/overview', 'derivatives/open-interest', 'derivatives/funding', 'derivatives/liquidations', 'defi/protocols', 'defi/chains', 'defi/tvl',
 ]);
-const PUBLIC_PREFIX_GETS = [/^assets\/[0-9a-f-]{36}$/i];
-const ADMIN_POSTS = new Set(['providers/cmc/ingestion/market', 'providers/cmc/key-info']);
-const ADMIN_GETS = new Set(['providers/cmc/quota']);
+const PUBLIC_PREFIX_GETS = [/^assets\/[0-9a-f-]{36}$/i, /^assets\/[0-9a-f-]{36}\/(markets|ohlcv|history)$/i, /^exchanges\/(binance|bybit)\/markets$/i, /^defi\/protocols\/[a-z0-9-]+$/i];
+const ADMIN_POSTS = new Set(['providers/ingestion/market']);
+const ADMIN_GETS = new Set(['providers/usage']);
 
 async function forward(request: NextRequest, context: { params: Promise<{ path: string[] }> }) {
   const { path } = await context.params;

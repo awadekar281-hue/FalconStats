@@ -1,0 +1,10 @@
+{
+  "data": {
+    "active_cryptocurrencies": 12000,
+    "markets": 700,
+    "total_market_cap": {"usd": 1234567890123.4567},
+    "total_volume": {"usd": 98765432109.87654},
+    "market_cap_percentage": {"btc": 52.25, "eth": 17.5},
+    "updated_at": 1735787045
+  }
+}

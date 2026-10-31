@@ -1,2 +1,2 @@
-export const CMC_MARKET_QUEUE = 'cmc-market-ingestion';
-export const CMC_MARKET_JOB = 'sync-market-snapshot';
+export const MARKET_QUEUE = 'market-data-ingestion';
+export const MARKET_JOB = 'sync-market-snapshot';
